@@ -120,7 +120,7 @@
     "jest": "23.3",
     "jest-fetch-mock": "2.1.0",
     "jest-styled-components": "6.2.2",
-    "jsdom": "13.0.0",
+    "jsdom": "16.5.0",
     "jsdom-global": "3.0.2",
     "lint-staged": "7.3.0",
     "loader-utils": "1.1.0",
